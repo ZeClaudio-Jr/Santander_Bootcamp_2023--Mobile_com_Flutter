@@ -79,7 +79,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 Se você tiver alguma dúvida ou precisar de assistência, sinta-se à vontade para entrar em contato através dos canais a seguir:
 
 - Email: zeclaudiojr.bsi@gmail.com
-- Instagran
+- Instagram: 
 - Fórum de Discussão: [Santander Bootcamp Fórum](https://forum.santanderbootcamp.com)
 
-Esperamos que você tenha uma experiência de aprendizado incrível com o meu projeto "Santander Bootcamp 2023 - Mobile com Flutter"! Divirta-se codificando! 🚀
+Esperamos que você tenha uma experiência de aprendizado incrível com o meu projeto "Santander Bootcamp 2023 - Mobile com Flutter"! Divirta-se codificando! Vamos a luta guerreiros 🚀
