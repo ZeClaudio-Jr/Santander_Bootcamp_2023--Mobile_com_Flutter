@@ -19,6 +19,19 @@ O repositório é organizado da seguinte forma:
 - **`/src`**: Esta pasta contém todo o código-fonte do projeto.
   - **`/lib`**: Aqui estão localizados os arquivos de código Dart do aplicativo.
   - **`/assets`**: Contém recursos estáticos, como imagens e fontes, utilizados no aplicativo.
+ 
+### 🖥️ Tecnologias e Ferramentas: 
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFA0RrGDTQkUckb5EQSn1YCIMrSAHCk7I_xL7BJZRQrq70ZN-ZfKGtfvg__lHzKlJ6uNymYOTIWbtuxOlnPJOLkOtPHYDlJ2z1Ce6fe8dX7nbhY-vw8FpuceYDcB-MahgEhuyAYc0mDZwU2hH4SP-Mz8X8hXoqUUwMvxCs8IY9b_nJk_MMi3i0QLuiQ/s16000/como-ganhar-dinheiro-com-o-GitHub.png" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" title = "FLUTTER"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+
+
 
 ## Como Começar
 
