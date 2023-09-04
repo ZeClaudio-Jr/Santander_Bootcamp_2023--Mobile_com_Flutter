@@ -28,7 +28,7 @@ O repositório é organizado da seguinte forma:
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMFA0RrGDTQkUckb5EQSn1YCIMrSAHCk7I_xL7BJZRQrq70ZN-ZfKGtfvg__lHzKlJ6uNymYOTIWbtuxOlnPJOLkOtPHYDlJ2z1Ce6fe8dX7nbhY-vw8FpuceYDcB-MahgEhuyAYc0mDZwU2hH4SP-Mz8X8hXoqUUwMvxCs8IY9b_nJk_MMi3i0QLuiQ/s16000/como-ganhar-dinheiro-com-o-GitHub.png" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" title = "FLUTTER"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://w7.pngwing.com/pngs/1010/539/png-transparent-sqlite-logo-thumbnail-tech-companies.png" title = "SQLite"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 
 
